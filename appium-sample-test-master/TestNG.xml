@@ -1,10 +1,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="ioAppiumSuite" verbose="1" >
+<suite name="ioAppiumSuite" verbose="1">
 
-    <test name="SampleTest" >
+    <test name="SampleTest">
         <classes>
-            <class name="ioSampleTest" />
+            <class name="ioSampleTest"/>
         </classes>
     </test>
 
